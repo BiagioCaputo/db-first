@@ -22,7 +22,7 @@ cilinders| TINYINT| NULL
 displacement| SMALLINT|NULL
 weight_kg| SMALLINT| NULL
 consume|FLOAT(4,2)|NULL
-color|VARCHAR(50)|NOTNULL
+color|VARCHAR(30)|NOTNULL
 paint_type|VARCHAR(30)|NOTNULL
 interns_color|VARCHAR(30)|NULL
 price|MEDIUMINT|NOTNULL
